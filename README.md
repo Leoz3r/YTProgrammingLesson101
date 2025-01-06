@@ -1,6 +1,7 @@
 # YTGuides101
 
 • This repository is a tutorial for programming. 
+
 • The code I type is directly from YouTube videos that might help some people save time. (Textbook) 
 
 # Sources:
