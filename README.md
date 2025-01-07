@@ -9,4 +9,4 @@
 
 C Language 
 
-• Bro Code - https://www.youtube.com/watch?v=87SH2Cn0s9A (C Programming Full Course for free)
+• Bro Code - https://www.youtube.com/watch?v=87SH2Cn0s9A (C Programming Full Course for free - Oct 7, 2021) 
