@@ -2,7 +2,7 @@
 
 • This repository is a tutorial for programming. 
 
-• The code I type is directly from YouTube videos that might help some people save time. (Textbook) 
+• The code I type is directly from YouTube videos that might help some people save time. (basically like a textbook) 
 
 
 # Sources:
