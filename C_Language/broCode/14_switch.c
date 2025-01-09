@@ -12,12 +12,22 @@ int main(void) {
 
     switch(grade){
         case 'A':
-            printf("perfect!\n");
+            printf("Perfect!\n");
             break;
         case 'B':
-            printf("you did good!\n");
+            printf("You did good!\n");
             break;
-    
+        case 'C':
+            printf("You did okay!\n");
+            break;
+        case 'D':
+            printF("At least it's not an F!");
+            break;
+        case 'F':
+            printf("YOU FAILED!");
+            break;
+        default:
+            printf("Please enter only valid grades\n");
     }
 
     return 0;
