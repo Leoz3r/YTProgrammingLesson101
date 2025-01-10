@@ -1,6 +1,6 @@
 # YTProgrammingLesson101
 
-• This repository is a programming tutorial (and for myself). 
+• This repository is a programming tutorial (primarily for myself). 
 
 • The code I type is directly from YouTube videos that might help some people save time. (basically like a textbook) 
 
