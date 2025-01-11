@@ -5,17 +5,16 @@
 int main(void) {
 
   // logical operators == && (AND) checks if two conditions are true
+  float temp = 1000;
 
-  float temp = 25;
-  bool sunny = true;
-
-
-  if(temp >= 0 && temp <= 30 && sunny){
-    printf("\nThe weather is good!");
-  }
-  else {
+  // only one condition needs to be true in order for it to run
+  if(temp <= 0 || temp >= 30) {
     printf("\nThe weather is bad!");
   }
+  else {
+    printf("\nThe weather is good!");
+  }
+
 
   return 0;
 }
