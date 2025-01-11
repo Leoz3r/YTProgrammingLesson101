@@ -7,14 +7,14 @@ int main(void){
 
   float temp = 25;
 
-  if(temp <= 0 ){
-    printf("\nThe weather is good!");
+  if(temp <= 0 || temp >= 30) {
+    printf("\nThe weather is bad!");
   }
   else if (temp >= 30) {
     printf("\nThe weather is bad!");
   }
-  else {
-    printf("\nThe weather is bad!");
+  else{
+    printf("\nThe weather is good!");
   }
 
   return 0;
