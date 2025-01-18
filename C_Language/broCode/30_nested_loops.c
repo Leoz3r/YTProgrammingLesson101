@@ -14,8 +14,8 @@ int main(void)
   printf("\nEnter # of columns: ");
   scanf("%d", &columns);
 
-  scanf("%c");
-
+  scanf("%c"); // getting rid of the new line character
+  
   printf("Enter a symbol to use: ");
   scanf("%c", &symbol);
 
