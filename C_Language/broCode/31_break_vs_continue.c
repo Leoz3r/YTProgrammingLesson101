@@ -9,7 +9,7 @@ int main(void)
   {
     if(i == 13)
     {
-      continue;
+      break;
     }
     printf("%d\n", i);
   }
