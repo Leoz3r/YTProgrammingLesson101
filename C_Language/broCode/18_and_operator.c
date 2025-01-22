@@ -8,7 +8,7 @@ int main(void) {
   float temp = 1000;
 
   // only one condition needs to be true in order for it to run
-  if(temp <= 0 || temp >= 30) {
+  if(temp <= 0 && temp >= 30) {
     printf("\nThe weather is bad!");
   }
   else {

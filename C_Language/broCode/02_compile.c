@@ -2,8 +2,8 @@
 
 int main() {
   
-  printf("I love pizza with balls!\n ");
-  printf("It's really f good! \n");
+  printf("I love pizza!\n");
+  printf("It's really good!\n");
 
   return 0;
 

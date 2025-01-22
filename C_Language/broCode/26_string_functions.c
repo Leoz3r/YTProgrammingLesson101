@@ -29,11 +29,11 @@ int main(void)
 
   if(result == 0)
   {
-    printf("Tese strings are the same");
+    printf("\nThese strings are the same");
   }
   else
   {
-    printf("These strings are not the same");    
+    printf("\nThese strings are not the same");    
   }
 
   return 0;

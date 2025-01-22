@@ -6,16 +6,12 @@ int main(void) {
   char unit;
   float temp;
 
-  pritnf("\nIs the temperature in (F) or (C)? ");
+  printf("\nIs the temperature in (F) or (C)? ");
   scanf("%c", &unit);
 
   unit = toupper(unit);
   // to allow lowercase 
 
-/*
- git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
-  */
   if(unit == 'C') {
     printf("\nEnter the temp in Celsius: ");
     scanf("%f", &temp);

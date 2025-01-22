@@ -21,7 +21,7 @@ int main(void) {
             printf("You did okay!\n");
             break;
         case 'D':
-            printF("At least it's not an F!");
+            printf("At least it's not an F!");
             break;
         case 'F':
             printf("YOU FAILED!");

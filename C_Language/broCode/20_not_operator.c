@@ -10,7 +10,7 @@ int main(void){
   if(!sunny) {
     printf("\nIt's sunny outside!");
   } else {
-    printf("\nIt's sunny outside!");
+    printf("\nIt's not sunny outside!");
   }
 
   return 0;

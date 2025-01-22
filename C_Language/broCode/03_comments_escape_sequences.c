@@ -22,7 +22,7 @@ int main(void) {
 
   printf("1\t2\t3\t4\t5\n6\t7\t8\t9\t10\n");
   printf("Bro \"Code\" \n");
-  printf("'quote' - bruh ");
+  printf("'quote' - bruh \n");
   printf("'/quote/' - bruh ");
 
   return 0;
