@@ -1,2 +1,0 @@
-
-for answer in answers:
